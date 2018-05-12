@@ -1,2 +1,4 @@
 # ModBandVisualization
-Live audioband visualization - kinda modular
+Live audioband visualization - kinda modular.
+
+![Screenshot](screenshot.png)
